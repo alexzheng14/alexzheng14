@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alexzheng14
 - 👀 I’m interested in Cybersecurity!
 - 🌱 I’m currently learning SIEM, network security and vulnerability assessments
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... alexzheng14@gmail.com
 
 <!---
